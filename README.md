@@ -3,6 +3,5 @@
 
 ![Image](images/Screenshot1.png)
 ![Image](images/ssindex.png)
-![Image](images/ssart.png)
 ![Image](images/ssconclave.png)
-![Image](images/ssprinciples.png)
+![Image](images/ssculture.png)
