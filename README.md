@@ -2,3 +2,7 @@
 ## The purpose of the site was to create a cohesive and responsive website that features images of and informational text about our topic, mine being Burning Man, a large festival held in the desert with yearly themes and art pieces, concluded with the burning of a 50+ ft tall effigy of a man.
 
 ![Image](images/Screenshot1.png)
+![Image](images/ssindex.png)
+![Image](images/ssart.png)
+![Image](images/ssconclave.png)
+![Image](images/ssprinciples.png)
